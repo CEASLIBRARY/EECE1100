@@ -1,2 +1,5 @@
 # EECE1100
-This is an introduction to GitHub
+## Introduction to GitHub
+This is an introduction to GitHub <br>
+
+This is my first edit on readme
